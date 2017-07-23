@@ -9,8 +9,8 @@ But we have to follow certain rules
 
 ![TOH](https://github.com/LordZed400/Tower-of-Hanoi/blob/master/Screenshots/Tower%20of%20Hanoi.jpg "Towers")
 
-##Program
+## Program
 
 This Program uses recusive function calls to solve the Tower of Hanoi Problem.
 
-![First Screenshot]( "Screenshot 1")
+![First Screenshot](https://github.com/LordZed400/Tower-of-Hanoi/blob/master/Screenshots/Screenshot-2.png "Screenshot 1")
