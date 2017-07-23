@@ -7,7 +7,7 @@ But we have to follow certain rules
 - Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack.  
 - No disk may be placed on top of a smaller disk. 
 
-![TOH]( "Towers")
+![TOH](https://github.com/LordZed400/Tower-of-Hanoi/blob/master/Screenshots/Tower%20of%20Hanoi.jpg "Towers")
 
 ##Program
 
